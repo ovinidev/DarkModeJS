@@ -1,5 +1,5 @@
-## Template para projetos React
-### **Fiz esse template para facilitar projetos futuros, para não perder tempo configurando.**
+## Dark mode utilizando styled component.
+### **Fiz esse padrão de dark mode para facilitar projetos futuros.**
 
 ### 🚀 Como executar
 ```
@@ -10,5 +10,5 @@
   
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
-**OBS: O Eslint está com a rules necessárias para funcionar de forma efetiva!**
-
+<p align="center">
+<img src="https://i.imgur.com/c8bdZvh.gif">
