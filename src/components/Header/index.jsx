@@ -13,7 +13,7 @@ export const Header = ({ toggleTheme }) => {
 
   return (
     <Container>
-      <p>Oi</p>
+      <h1>Dark mode</h1>
       <Switch
         class
         onChange={toggleTheme}

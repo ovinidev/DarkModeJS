@@ -6,6 +6,6 @@ export const light = {
     secondary: '#861657',
 
     background: '#ffffff',
-    text: '#333',
+    text: '#1F0813',
   },
 };

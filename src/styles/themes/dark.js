@@ -8,6 +8,6 @@ export const dark = {
     default: 'black',
 
     background: '#360D21',
-    text: '#ffffff',
+    text: '#93E1D8',
   },
 };
