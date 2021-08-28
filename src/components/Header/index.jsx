@@ -1,7 +1,10 @@
 import P from 'prop-types';
+
 import Switch from 'react-switch';
 import { shade } from 'polished';
+
 import { useContext } from 'react';
+
 import { ThemeContext } from 'styled-components';
 import { Container } from './styles';
 
@@ -28,6 +31,5 @@ export const Header = ({ toggleTheme }) => {
 };
 
 Header.propTypes = {
-  toggleTheme: P.isRequired,
-  
+  toggleTheme: P.func.isRequired,
 };

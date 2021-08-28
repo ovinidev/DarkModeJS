@@ -1,6 +1,7 @@
 export const light = {
+  title: 'light',
+
   colors: {
-    title: 'light',
     primary: '#93E1D8',
     secondary: '#861657',
 

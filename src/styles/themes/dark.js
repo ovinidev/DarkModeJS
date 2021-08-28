@@ -1,4 +1,6 @@
 export const dark = {
+  title: 'dark',
+
   colors: {
     primary: '#1F0813',
     secondary: '#93E1D8',
@@ -8,7 +10,4 @@ export const dark = {
     background: '#360D21',
     text: '#ffffff',
   },
-
-  title: 'dark',
-
 };
