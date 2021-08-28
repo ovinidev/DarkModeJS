@@ -8,7 +8,7 @@
 - Inicie o servidor com `yarn start`
 ```
   
-Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
+Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador. <br>
 Link: https://vinidarkmode.netlify.app/
 
 <p align="center">
