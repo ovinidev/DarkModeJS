@@ -6,6 +6,7 @@
 Tecnologias utilizada no projeto:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"> &nbsp;
 <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="imagem" width="70"> &nbsp;
 
 ```
