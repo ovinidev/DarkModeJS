@@ -3,7 +3,7 @@
 
 ## 💡 Tecnologias
 
-Tecnologias utilizada no projeto:
+Tecnologias utilizadas no projeto:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"> &nbsp;
